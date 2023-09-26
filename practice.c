@@ -82,7 +82,7 @@ int main() {
 
     // reversed integer is stored in reversed variable
     while (n != 0) {
-        remainder = n % 10;
+        remainder = n % 10; 
         reversed = reversed * 10 + remainder;
         n /= 10;
     }
