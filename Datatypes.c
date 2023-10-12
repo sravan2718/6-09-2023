@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main()
-
+//main function
 {
     int integerVar = 100;
     float floatingVar = 331.79;
